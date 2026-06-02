@@ -10,7 +10,7 @@ Me apasiona el **frontend**, aunque también disfruto diseñar y mantener el **b
 
 ---
 
-## 🧠 Tecnologías
+## Tecnologías
 
 <p align="center">
   <!-- Lenguajes -->
@@ -51,7 +51,7 @@ Me apasiona el **frontend**, aunque también disfruto diseñar y mantener el **b
 
 ---
 
-## 🧩 Arquitectura y buenas prácticas
+## Arquitectura y buenas prácticas
 
 Me interesa profundamente la **arquitectura web** y la **organización del código**.  
 Busco siempre que cada proyecto tenga una estructura clara, escalable y fácil de mantener.
@@ -63,24 +63,8 @@ Busco siempre que cada proyecto tenga una estructura clara, escalable y fácil d
 
 ## 🚀 Sobre mí
 
-- 🎯 Enfocado en seguir perfeccionando mis conocimientos en **arquitectura web y patrones de diseño**.  
-- 🧩 Me gusta mantener una **estructura modular y ordenada** en mis proyectos.  
-- 💻 Uso **Linux** como entorno de desarrollo principal.  
-- 🕹️ En mi tiempo libre disfruto del **gaming** y de explorar nuevas herramientas y frameworks.  
+-  Enfocado en seguir perfeccionando mis conocimientos en **arquitectura web y patrones de diseño**.  
+-  Me gusta mantener una **estructura modular y ordenada** en mis proyectos.  
+-  Uso **Linux** como entorno de desarrollo principal.  
+-  En mi tiempo libre disfruto del **gaming** y de explorar nuevas herramientas y frameworks.  
 
----
-
-## 📫 Contacto
-
-<p align="center">
-  <a href="mailto:moddemondev@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/esteban-rodr%C3%ADguez-b26062372/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-> “El código limpio es simple y directo. Es elegante y hace una sola cosa bien.” — *Grady Booch*

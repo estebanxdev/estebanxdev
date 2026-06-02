@@ -1,12 +1,9 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/is-a-dev/register/main/media/banner.png" alt="Banner - Essam | Desarrollador Web" width="100%" />
+  <img src="https://i.pinimg.com/736x/de/c1/c3/dec1c39d769e357c3ff95acd2478632c.jpg" alt="Banner - Essam | Desarrollador Web" width="100%" />
 </p>
 
 # 👋 ¡Hola! Soy Esteban 
-
-Soy un **desarrollador web** enfocado en construir aplicaciones modernas, eficientes y bien estructuradas.  
-Me apasiona el **frontend**, aunque también disfruto diseñar y mantener el **backend**, aplicando principios de **arquitectura limpia** y buenas prácticas de desarrollo.
 
 ---
 
@@ -36,7 +33,7 @@ Me apasiona el **frontend**, aunque también disfruto diseñar y mantener el **b
 
 ---
 
-## ⚙️ Herramientas
+## Herramientas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -50,20 +47,7 @@ Me apasiona el **frontend**, aunque también disfruto diseñar y mantener el **b
 </p>
 
 ---
-
-## Arquitectura y buenas prácticas
-
-Me interesa profundamente la **arquitectura web** y la **organización del código**.  
-Busco siempre que cada proyecto tenga una estructura clara, escalable y fácil de mantener.
  
-- 🧠 Me inspiro en principios de **Clean Architecture**, **SOLID** y **Domain-Driven Design (DDD)** para mantener el código limpio y entendible.  
-- ⚙️ Siempre busco un balance entre **simplicidad, escalabilidad y legibilidad**.
-
----
-
-## 🚀 Sobre mí
-
--  Enfocado en seguir perfeccionando mis conocimientos en **arquitectura web y patrones de diseño**.  
 -  Me gusta mantener una **estructura modular y ordenada** en mis proyectos.  
 -  Uso **Linux** como entorno de desarrollo principal.  
 -  En mi tiempo libre disfruto del **gaming** y de explorar nuevas herramientas y frameworks.  

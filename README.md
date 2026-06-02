@@ -1,9 +1,9 @@
 <!-- Banner superior -->
+# Hello, I'm Essam, passionate about software development.
 <p align="center">
-  <img src="https://i.pinimg.com/736x/de/c1/c3/dec1c39d769e357c3ff95acd2478632c.jpg" alt="Banner - Essam | Desarrollador Web" width="100%" />
+  <img src="https://i.pinimg.com/736x/de/c1/c3/dec1c39d769e357c3ff95acd2478632c.jpg" alt="Banner - Essam | Desarrollador Web" width="75%" />
 </p>
 
-# Hello, I'm Essam, passionate about software development.
 
 ---
 

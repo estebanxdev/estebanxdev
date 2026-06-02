@@ -3,11 +3,11 @@
   <img src="https://i.pinimg.com/736x/de/c1/c3/dec1c39d769e357c3ff95acd2478632c.jpg" alt="Banner - Essam | Desarrollador Web" width="100%" />
 </p>
 
-# 👋 ¡Hola! Soy Esteban 
+# Hello, I'm Essam, passionate about software development.
 
 ---
 
-## Tecnologías
+## Technologies
 
 <p align="center">
   <!-- Lenguajes -->
@@ -33,7 +33,7 @@
 
 ---
 
-## Herramientas
+## Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -48,7 +48,7 @@
 
 ---
  
--  Me gusta mantener una **estructura modular y ordenada** en mis proyectos.  
--  Uso **Linux** como entorno de desarrollo principal.  
--  En mi tiempo libre disfruto del **gaming** y de explorar nuevas herramientas y frameworks.  
+- I like to maintain a modular and organized structure in my projects.
+- I use Linux as my primary development environment.
+- In my free time, I enjoy playing video games and exploring new tools and framework
 
